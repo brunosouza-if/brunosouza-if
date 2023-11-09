@@ -1,10 +1,14 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Souza</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Souza 😜</h1>
 
 - 🔥 Programmer in **progress**
+  
+- 👨‍💻 Studying **A.D.S**
+
+- 👨‍💻 Focusing **RockSeat**
 
 - 💬 I have been **passionate** about this area since I was little. 
 
-- ⚡ Learning every day 😜
+- ⚡ Learning **every day**
 <!--
 
 <br><br>
